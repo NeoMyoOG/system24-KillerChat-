@@ -1,3 +1,5 @@
+# !!!WARNING!!!
+This repo is a fork and in no way it's being worked by refact0r, this repo only adds the Killer Chat style scheme to the flavors folder, I just can't be bothered to clean this up owo'
 
 <img src="https://github.com/refact0r/system24/raw/main/assets/preview.png">
 
